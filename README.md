@@ -61,7 +61,7 @@ python renderer.py -p point_cloud.ply
 If you find this work useful for your research, please cite our github repo:
 ```bibtex
 @misc{gu2024gtracer,
-    title = {3D Gaussian Ray Tracer},
+    title = {OptiX-based differentiable 3D Gaussian Ray Tracer},
     author = {Gu, Chun and Zhang, Li},
     howpublished = {\url{https://github.com/fudan-zvg/gtracer}},
     year = {2024}
