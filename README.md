@@ -63,7 +63,7 @@ If you find this work useful for your research, please cite our github repo:
 @misc{gu2024gtracer,
     title = {OptiX-based differentiable 3D Gaussian Ray Tracer},
     author = {Gu, Chun and Zhang, Li},
-    howpublished = {\url{https://github.com/fudan-zvg/gtracer}},
+    howpublished = {\url{https://github.com/LogosIntelligenceLab/gtracer}},
     year = {2024}
 }
 ```
