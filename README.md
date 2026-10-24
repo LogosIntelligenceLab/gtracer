@@ -1,11 +1,11 @@
 # 3D Gaussian Ray Tracer
 
-An OptiX-based differentiable 3D Gaussian Ray Tracer, inspired by the work [3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes](https://gaussiantracer.github.io/). See [gaussian-raytracing](https://github.com/fudan-zvg/gaussian-raytracing) for 3D reconstruction.
+An OptiX-based differentiable 3D Gaussian Ray Tracer, inspired by the work [3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes](https://gaussiantracer.github.io/). See [gaussian-raytracing](https://github.com/LogosIntelligenceLab/gaussian-raytracing) for 3D reconstruction.
 
 ### Install
 ```bash
 # clone the repo
-git clone https://github.com/fudan-zvg/gtracer.git
+git clone https://github.com/LogosIntelligenceLab/gtracer.git
 cd gtracer
 
 # use cmake to build the project for ptx file (for Optix)
